@@ -1,0 +1,8 @@
+P is: 23.0
+G is: 3.0
+Bob's number is: 3.0
+Alice's number is: 4.0
+Alice's number after the first operation is: 12.0
+Bob's number after the first operation is: 4.0
+Alice's number after the second operation is: 4.0
+Bob's number after the second operation is: 4.0
